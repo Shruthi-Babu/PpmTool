@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PpmToolApplication<ppm_tool>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.shruthi.ppm_tool.PpmToolApplication",
+            "projectName": "ppm_tool",
+            "args": ""
+        }
+    ]
+}
